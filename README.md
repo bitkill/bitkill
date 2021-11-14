@@ -12,10 +12,10 @@ I'm Rui, a software developer from Portugal 🇵🇹, working remote.
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white">
   </a>
-  <a href="https://www.linuxfoundation.org/">
+  <a href="https://www.jetbrains.com/idea/">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?&style=for-the-badge&logo=intellij-idea&logoColor=white">
   </a>
-  <a href="https://www.linuxfoundation.org/">
+  <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   <a href="https://www.mysql.com/">
@@ -33,7 +33,7 @@ I'm Rui, a software developer from Portugal 🇵🇹, working remote.
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
   </a>
-    <a href="https://www.javascript.com/">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
   </a>
