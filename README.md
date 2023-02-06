@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Rui, a software developer from Portugal 🇵🇹, working remote.
+I'm Rui, a software architect from Portugal 🇵🇹, working remote.
 
 [![Linkedin Badge](https://img.shields.io/badge/-ruifn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruifn/)](https://www.linkedin.com/in/ruifn/)
 
